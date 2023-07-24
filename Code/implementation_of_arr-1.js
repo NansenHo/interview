@@ -1,4 +1,4 @@
-// 实现以下代码：
+// Implemente `` ：
 // let arr = [1, 2, 3, 4]
 // arr[-1] === 4 // true
 // arr[-2] === 3 // true

@@ -1,0 +1,16 @@
+{
+  "name": "interview",
+  "description": "",
+  "keywords": [
+    "Algorithmic problems",
+    "Interview",
+    "JavaScript",
+    "TypeScript",
+    "Java"
+  ],
+  "author": {
+    "name": "Nansen",
+    "email": "song.he0302@gmail.com"
+  },
+  "license": "MIT"
+}
